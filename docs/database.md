@@ -16,7 +16,7 @@ name
 PK id
 FK wallet_id -> Wallet.id
 FK category_id -> Category.id
-type
+(INCOME / EXPENSE)
 amount
 date
 note
