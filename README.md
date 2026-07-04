@@ -1,4 +1,4 @@
-# personal-finance-management
+# yow-finance
 
 full stack personal finance management for professional project practice
 
